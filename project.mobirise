@@ -75,12 +75,12 @@
         "url": "https://fonts.googleapis.com/css?family=Neuton:200,300,400,400i,700,800"
       }
     ],
-    "uniqCompNum": 101,
+    "uniqCompNum": 103,
     "versionPublish": "5.9.13",
     "imageResize": true,
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "jy2os19xm2",
+    "mbrsiteDomain": "tim1w3krr9",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -93,7 +93,7 @@
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
-    "google-analytics": "<style>\n    section{\n        background-image:none!important;\n        background-color:rgba(0,0,0,0.1)!important;\n    }\n    body {\n        background-image: url(https://img.freepik.com/free-vector/geometrical-abstract-triangle-mosaic-pattern-background-vector-graphic-from-triangles-blue-tones_1164-1136.jpg?t=st=1720569573~exp=1720573173~hmac=6025e6f1a15ed85eb59fdca7cfd9c6285e509f0af58f5916c620fc8728bb4773&w=826);\n    background-repeat:repeat!important;\n    }\n</style>"
+    "google-analytics": "<style>\n    section{\n        background-image:none!important;\n        background-color:rgba(0,0,0,0.1)!important;\n    }\n    body {\n        background-image: url(file:///private/var/folders/sh/gqwn_w4d0s7g2wmwmmxh932r0000gn/T/Mobirise/20240710_145214/assets/images/11361-1-613x613.jpg);\n    background-repeat:repeat!important;\n    }\n</style>"
   },
   "pages": {
     "index.html": {
